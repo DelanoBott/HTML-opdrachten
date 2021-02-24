@@ -1,0 +1,25 @@
+body{
+    font-family: arial;
+}
+
+header{
+    color: darkslategrey;
+}
+
+#green-background{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: darkslategrey;
+}
+
+#list-header{
+    font-size: 18px;
+    font-style: italic;
+}
+
+main{
+    border: 1px solid black;
+}
