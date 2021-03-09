@@ -1,0 +1,7 @@
+.blogpost {
+    width: 300px;
+    border: 1px solid black;
+    display: inline-flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
